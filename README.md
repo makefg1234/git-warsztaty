@@ -1,2 +1,1 @@
-# git-warsztaty
-Description
+Projekt Zespołowy Opis: Ten projekt został stworzony jako część współpracy zespołowej. Każdy członek zespołu dodał informacje o sobie oraz brał udział w rozwijaniu projektu. Członkowie zespołu - Vladislav - Bohdan - Nikita - Artur
